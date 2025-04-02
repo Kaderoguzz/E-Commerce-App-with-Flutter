@@ -21,8 +21,6 @@ This shop app template comes with 100+ screens. Some of these pages are Splash, 
 </p>
 </br >
 </br >
-
-
 ## Screens on the FlutterShop E-commerce Template
 
 As mentioned, this kit contains 100+ nicely crafted minimal screens that cover everything you need!👇
